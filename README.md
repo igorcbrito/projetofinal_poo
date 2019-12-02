@@ -9,30 +9,31 @@ Ferramenta para ouvir músicas
 
 Primeiro vá até o terminal e digite o seguinte comando para estabelecer o servidor
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](POO_server.PNG)
 
 depois o seguinte comando para estabelecer o cliente (que é declarado na main)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](POO_main.PNG)
 
 ### Fazer cadastro
 
 Para cadastrar um novo usuário, clicar no botão cadastrar
 
-![alt text](POO_cadastroUsuario.PNG)
+![alt text](POO_janelaLogin.PNG)
 
 Digitar os dados nos campos e clicar no botão Terminar
 
+![alt text](POO_cadastroUsuario.PNG)
 
 
 ### Fazer login
 
 Digitar o usuário e a senha nos campos da janela e clicar em Entrar
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](POO_fazendoLogin)
 
 ### Janela principal
 
 A janela principal contem dados sobre a musica em execução, artista, e outras funcionalidades como : criar playlist, ver playlist, parar musica, executar musica, pular musica, voltar música e favoritar uma música.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](POO_telaprincipal)
