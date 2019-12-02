@@ -50,4 +50,4 @@ A janela principal contem dados sobre a musica em execução, artista, e outras 
 
 Ao clicar no botão Ver Playlist, a janela com as playlists apareceriam, porém a função de criação de playlist está com bugs.
 
-![alt text](POO_playlists.PNG)
+![alt text](POO_playlists.png)
