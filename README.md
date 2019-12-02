@@ -44,6 +44,8 @@ A janela principal contem dados sobre a musica em execução, artista, e outras 
 
 ### Criar playlist
 
+Para criar uma playlist adicione o nome na box e selecione as musicas desejadas, ao final clicar no botão Salvar. Obs: Esta funcionalidade não está funcionando corretamente devido a algum bug na comunicação para o servidor, a janela para de responder.
+
 ![alt text](POO_criacaoPlaylist.PNG)
 
 ### Abrir playlist
