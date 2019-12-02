@@ -44,10 +44,59 @@ A janela principal contem dados sobre a musica em execução, artista, e outras 
 
 ### Criar playlist
 
-
+![alt text](POO_criacaoPlaylist.PNG)
 
 ### Abrir playlist
 
 Ao clicar no botão Ver Playlist, a janela com as playlists apareceriam, porém a função de criação de playlist está com bugs.
 
 ![alt text](POO_playlists.png)
+
+<h1>Desenvolvedores:</h1>
+ 
+ <table>
+  <tbody><tr> <td align="center">
+      <a href="https://github.com/igorcbrito">
+        <img src="https://avatars2.githubusercontent.com/u/37213793?s=460&v=4" width="100px;" alt="Ricardo Varela" style="max-width:100%;">
+        <br>
+        <sub><b>Igor Brito</b></sub>
+      </a><br>
+    </td> <td align="center">
+      <a href="https://github.com/italoaurilio">
+        <img src="https://avatars1.githubusercontent.com/u/52167534?s=460&v=4" width="100px;" alt="Ítalo" style="max-width:100%;">
+        <br>
+        <sub><b>Ítalo Aurílio </b></sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ricardomvv">
+        <img src="https://avatars0.githubusercontent.com/u/48896758?s=460&v=4" width="100px;" alt="Ricardo Varela" style="max-width:100%;">
+        <br>
+        <sub><b>Ricardo Varela</b></sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RobsondCCarneiro">
+        <img src="https://avatars2.githubusercontent.com/u/43090615?s=460&v=4" width="100px;" alt="Robson Carneiro" style="max-width:100%;">
+        <br>
+        <sub><b>Robson Carneiro</b></sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ronydesena">
+        <img src="https://avatars0.githubusercontent.com/u/19894638?s=460&v=4" width="100px;" alt="Rony Lourenço" style="max-width:100%;">
+        <br>
+        <sub><b>Rony Lourenço</b></sub>
+      </a><br>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thatianajribeiro">
+        <img src="https://avatars2.githubusercontent.com/u/51245283?s=460&v=4" width = "100px;" alt="Thatiana Ribeiro" style="max-width:100%;">
+        <br>
+        <sub><b>Thatiana Ribeiro</b></sub>
+      </a><br>
+    </td>
+  </tr>
+</tbody></table>
+
+
