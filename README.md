@@ -63,10 +63,13 @@ Ao clicar no botão Ver Playlist, a janela com as playlists apareceriam, porém 
         <br>
         <sub><b>Igor Brito</b></sub>
       </a><br>
-        <sub><b>Thatiana Ribeiro</b></sub>
+       <tbody><tr> <td align="center">
+      <a href="https://github.com/igorcbrito">
+        <img src="https://avatars2.githubusercontent.com/u/37213793?s=460&v=4" width="100px;" alt="Ricardo Varela" style="max-width:100%;">
+        <br>
+        <sub><b>Igor Brito</b></sub>
       </a><br>
-    </td>
-  </tr>
+  
 </tbody></table>
 
 
