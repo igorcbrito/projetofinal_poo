@@ -7,7 +7,11 @@ Ferramenta para ouvir músicas
 
 ### Abrir a ferramenta
 
-Primeiro vá até o terminal e digite o seguinte comando para estabelecer o servidor
+Primeiro vá até o terminal e navegue até o diretório aonde está os arquivos
+
+![alt text](POO_diretorio.PNG)
+
+digite o seguinte comando para estabelecer o servidor
 
 ![alt text](POO_server.PNG)
 
