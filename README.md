@@ -34,10 +34,10 @@ Digitar os dados nos campos e clicar no botão Terminar
 
 Digitar o usuário e a senha nos campos da janela e clicar em Entrar
 
-![alt text](POO_fazendoLogin)
+![alt text](POO_fazendoLogin.PNG)
 
 ### Janela principal
 
 A janela principal contem dados sobre a musica em execução, artista, e outras funcionalidades como : criar playlist, ver playlist, parar musica, executar musica, pular musica, voltar música e favoritar uma música.
 
-![alt text](POO_telaprincipal)
+![alt text](POO_telaprincipal.PNG)
