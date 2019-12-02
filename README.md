@@ -29,6 +29,8 @@ Digitar os dados nos campos e clicar no botão Terminar
 
 ![alt text](POO_cadastroUsuario.PNG)
 
+obs: ao cadastrar o novo usuário a conexão com o servidor está sendo encerrada. Favor reininciar a conexão com o servidor.
+
 
 ### Fazer login
 
