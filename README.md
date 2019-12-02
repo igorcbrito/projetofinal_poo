@@ -19,9 +19,11 @@ depois o seguinte comando para estabelecer o cliente (que é declarado na main)
 
 Para cadastrar um novo usuário, clicar no botão cadastrar
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](POO_cadastroUsuario.PNG)
 
 Digitar os dados nos campos e clicar no botão Terminar
+
+
 
 ### Fazer login
 
